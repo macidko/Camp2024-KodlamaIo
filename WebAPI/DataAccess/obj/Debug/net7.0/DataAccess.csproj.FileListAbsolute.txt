@@ -1,0 +1,17 @@
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\WebAPI\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

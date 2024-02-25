@@ -2,3 +2,4 @@ C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\ne
 C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
 C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
 C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache

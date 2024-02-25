@@ -1,0 +1,4 @@
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\zurza\source\repos\Camp2024-KodlamaIo\KodlamaIo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
